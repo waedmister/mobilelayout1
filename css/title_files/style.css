@@ -82,26 +82,5 @@
   height: 375px;
   border-color: navy;
   border-width: 24px;
-  border-style: solid;
-}
-.box8a {
-  background-color: gray;
-  height: 275px;
-  border-color: white;
-  border-width: 37px 24px;
-  border-style: solid;
-}
-.box9a {
-  background-color: navy;
-  height: 23px;
-  border-color: white;
-  border-width: 48px 24px 44px 24px;
-  border-style: solid;
-}
-.box10a {
-  background-color: gray;
-  height: 110px;
-  border-color: white;
-  border-width: 0px 24px;
-  border-style: solid;
+  border-style: solid; 
 }
